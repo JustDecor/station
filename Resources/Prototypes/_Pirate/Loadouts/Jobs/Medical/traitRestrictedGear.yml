@@ -269,7 +269,7 @@
     - ClothingHeadHatBeretCmo
 
 - type: loadout
-  id: LoadoutClothingRestrictedGearHeadMirror
+  id: LoadoutRestrictedGearClothingHeadMirror
   category: JobsMedicalChiefMedicalOfficer
   cost: 1
   requirements:
@@ -399,7 +399,7 @@
 
 - type: loadout
   id: LoadoutChiefMedicalOfficerRestrictedGearShoesLaceup
-  category: JobsCommandCaptain
+  category: JobsMedicalChiefMedicalOfficer
   cost: 1
   exclusive: true
   requirements:

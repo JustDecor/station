@@ -2,7 +2,7 @@
 # Outer
 
 - type: loadout
-  id: LoadoutCargoOuterWinterCargoRestrictedGear
+  id: LoadoutCargoTechnicianOuterWinterRestrictedGear
   category: JobsLogisticsAUncategorized
   cost: 1
   exclusive: true
@@ -284,7 +284,7 @@
 # Head
 
 - type: loadout
-  id: LoadoutCommandQMHeadSoftRestrictedGear
+  id: LoadoutLogisticsOfficerHeadSoftRestrictedGear
   category: JobsLogisticsLogisticsOfficer
   cost: 1
   requirements:

@@ -167,7 +167,7 @@
 
 # Atmospheric Technician Uniforms
 - type: loadout
-  id: LoadingEngineeringAtmosRestrictedGearUniformSuit
+  id: LoadoutEngineeringAtmosRestrictedGearUniformSuit
   category: JobsEngineeringAtmosphericTechnician
   cost: 1
   exclusive: true
@@ -185,7 +185,7 @@
     - ClothingUniformJumpsuitAtmos
 
 - type: loadout
-  id: LoadingEngineeringAtmosRestrictedGearUniformSkirt
+  id: LoadoutEngineeringAtmosRestrictedGearUniformSkirt
   category: JobsEngineeringAtmosphericTechnician
   cost: 1
   exclusive: true
@@ -351,7 +351,7 @@
 
 # Chief Engineer Outer
 - type: loadout
-  id: LoadoutCommandCERestrictedGearOuterWinter
+  id: LoadoutEngineeringChiefEngineerRestrictedGearOuterWinter
   category: JobsEngineeringChiefEngineer
   cost: 1
   requirements:

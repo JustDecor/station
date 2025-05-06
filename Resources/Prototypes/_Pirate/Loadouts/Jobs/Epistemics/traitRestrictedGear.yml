@@ -73,7 +73,7 @@
     - ClothingEyesGlassesEpistemics
 
 - type: loadout
-  id: LoadoutScienceRestrictedGearJumpsuitLibrarianNt
+  id: LoadoutCatalogerRestrictedGearJumpsuitLibrarianNt
   category: JobsEpistemicsCataloger
   cost: 1
   exclusive: true
